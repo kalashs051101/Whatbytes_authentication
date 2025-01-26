@@ -3,10 +3,8 @@
 1.Clone the repository:
 git clone https://github.com/kalashs051101/Whatbytes_authentication.git
 
-2.Change directory:
-cd Whatbytes_authentication        #inside repository
-cd Authentication_project           #inside project
-
+2.Change directory for inside project:
+cd Whatbytes_authentication/Authentication_project           
 
 2.Create and activate virtual env:
 python -m venv venv  #create
